@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "66c6e2203b7d5c142a148add"
+  },
+  "name": "Umais",
+  "age": "24"
+},
+{
+  "_id": {
+    "$oid": "66c6e8383b8b9b5fd23272b2"
+  },
+  "name": "Fahad",
+  "age": 30,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c6f0137b8934a7311631bf"
+  },
+  "name": "Ali",
+  "age": 24,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c70940d5a11884f9d72129"
+  },
+  "name": "Abdullah",
+  "age": 12,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c81fdbdf26092773b4e092"
+  },
+  "name": "Imran Khan ",
+  "age": 80,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c82926975f46ceef0d63e9"
+  },
+  "name": "Abdullah",
+  "age": 25,
+  "__v": 0
+}]
