@@ -1,0 +1,7 @@
+cd Server
+npx modemon index.js
+
+
+cd Client
+npm i
+npm run dev
